@@ -1,4 +1,0 @@
-moneymaker
-==========
-
-Eerste repository
